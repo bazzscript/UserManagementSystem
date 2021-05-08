@@ -13,4 +13,4 @@ npm start
 
 
 
-![alt text](https://github.com/[emexbazz]/[UserManagementSystem]/blob/[master]/snapshot.png?raw=true)
+![alt text](https://github.com/[emexbazz]/[UserManagementSystem]/snapshot.png?raw=true)
